@@ -1,0 +1,69 @@
+*{
+    padding: 0px;
+    margin: 13px;
+}
+.Name{
+    font-weight: 900;
+font-size: 40px;
+}
+.text1{
+    font-weight: 600;
+}
+.line{
+    width: 1000px;
+    height: 5px;
+background-color: black;
+margin-right: 20%;
+}
+.details{
+    background-color: rgb(10, 11, 11);
+    width: 233px;
+    font-size: 23px;
+    color: white;
+    padding: 4px 4px;
+}
+.profile{
+    background-color: rgb(10, 11, 11);
+    width: 110px;
+    font-size: 23px;
+    color: white;
+    padding: 4px 4px;
+}
+.employment{
+    background-color: rgb(10, 11, 11);
+    width: 170px;
+    font-size: 23px;
+    color: white;
+    padding: 4px 4px;
+}
+.services1{
+    font-weight: 900;
+    font-size: small;
+    
+}
+.circle{
+    color: rgb(167, 167, 167);
+}
+.circle2{
+    color:  rgb(167, 167, 167);
+}
+.circle3{
+    color:  rgb(167, 167, 167);
+}
+.circle4{
+    color:  rgb(167, 167, 167);
+}
+.education{
+    background-color: rgb(10, 11, 11);
+    width: 145px;
+    font-size: 23px;
+    color: white;
+    padding: 4px 4px;
+}
+.skills{
+    background-color: rgb(10, 11, 11);
+    width: 90px;
+    font-size: 23px;
+    color: white;
+    padding: 4px 4px;
+}
